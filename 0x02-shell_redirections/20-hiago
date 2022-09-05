@@ -1,2 +1,2 @@
-rt -d cC
-rt -d 'c' 'C'
+#!/bin/bash
+rt -d Cc
