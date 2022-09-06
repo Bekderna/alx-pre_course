@@ -1,2 +1,2 @@
 #!/bin/bash
- printf %.10f\\n NUM
+echo "scale=2;$NUM" | bc
